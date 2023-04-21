@@ -24,7 +24,7 @@
 &kp ESC   &kp Q  &kp W    &kp E    &kp R     &kp T                           &kp Y  &kp U     &kp I     &kp O    &kp P    &kp LBKT
 &kp TAB   &kp A  &kp S    &kp D    &kp F     &kp G                           &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp SQT
 &kp LSHFT &kp Z  &kp X    &kp C    &kp V     &kp B      &kp C_MUTE &none     &kp N  &kp M     &kp COMMA &kp FSLH  &kp MINUS &kp EQUAL
-                 &kp LGUI &kp LALT &kp LCTRL &kp SPACE  &mo 1       &mo 2    &kpRET &kp LC(X) &kp LC(C) &kp LC(v)
+                 &kp LGUI &kp LALT &kp LCTRL &kp SPACE  &mo 1      &mo 2    &kp RET &kp LC(X) &kp LC(C) &kp LC(v)
             >;
 
             sensor-bindings = <&inc_dec_kp UP DOWN &inc_dec_kp LEFT RIGHT>;
