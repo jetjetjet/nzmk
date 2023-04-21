@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nrf52840dk_nrf52840
     shield: sofle_left
-  - board: nrfmicro_13
+  - board: nrf52840dk_nrf52840
     shield: sofle_right
-  - board: nrfmicro_13
+  - board: nrf52840dk_nrf52840
     shield: settings_reset
